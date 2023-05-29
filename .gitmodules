@@ -1,0 +1,6 @@
+[submodule "https:/github.com/siyangye/week4demo.git"]
+	path = https:/github.com/siyangye/week4demo.git
+	url = https://github.com/siyangye/Techin509_TechnologyFoundation.git
+[submodule "week4demo"]
+	path = week4demo
+	url = git@github.com:siyangye/week4demo.git
